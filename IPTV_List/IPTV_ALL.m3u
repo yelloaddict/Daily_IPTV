@@ -1,6 +1,3 @@
-
-
-
 #EXTM3U
 #EXTINF:-1,PT: TVCINE 1 HD
 http://starshare.live:8080/live/567890/567890/313.ts
@@ -129,8 +126,7 @@ http://starshare.live:8080/live/567890/567890/1673.ts
 #EXTINF:-1,PT: BENFICA TV
 http://starshare.live:8080/live/567890/567890/30362.ts
 #EXTINF:-1,PT: SPORT TV 1 FHD
-http://starshare.live:8080/live/567890/567890/32307.ts
-#EXTM3U
+http://starshare.live:8080/live/567890/567890/32307.ts#EXTM3U
 #EXTINF:-1,PT: ELEVEN 1
 http://vip.perfectiptvuk.co.uk:80/craigball83@gmail.com/4682965954/4754
 #EXTINF:-1,PT: ELEVEN 2
@@ -290,8 +286,7 @@ http://vip.perfectiptvuk.co.uk:80/craigball83@gmail.com/4682965954/747
 #EXTINF:-1,PT: TVI FICÇAO
 http://vip.perfectiptvuk.co.uk:80/craigball83@gmail.com/4682965954/746
 #EXTINF:-1,PT: TVI REALITY
-http://vip.perfectiptvuk.co.uk:80/craigball83@gmail.com/4682965954/745
-#EXTM3U
+http://vip.perfectiptvuk.co.uk:80/craigball83@gmail.com/4682965954/745#EXTM3U
 #EXTINF:-1,PT✦: 24 Kitchen FHD
 http://linkme.team:80/IPTV123/IPTV123/382775
 #EXTINF:-1,PT✦: A Bola TV FHD
@@ -537,8 +532,7 @@ http://linkme.team:80/IPTV123/IPTV123/382898
 #EXTINF:-1,PT✦: TVI Ficcao FHD
 http://linkme.team:80/IPTV123/IPTV123/382899
 #EXTINF:-1,PT✦: TVI Reality FHD
-http://linkme.team:80/IPTV123/IPTV123/382900
-#EXTM3U
+http://linkme.team:80/IPTV123/IPTV123/382900#EXTM3U
 #EXTINF:-1,PT: RTP 1
 http://ender8903.gigabit.dns001.cf:8080/Lg0rhrxy1G/GrtZmWDhFa/2211
 #EXTINF:-1,PT: RTP 1 HD
@@ -1126,8 +1120,7 @@ http://ender8903.gigabit.dns001.cf:8080/Lg0rhrxy1G/GrtZmWDhFa/374546
 #EXTINF:-1,PT: TLC
 http://ender8903.gigabit.dns001.cf:8080/Lg0rhrxy1G/GrtZmWDhFa/136681
 #EXTINF:-1,PT: DOG TV HD
-http://ender8903.gigabit.dns001.cf:8080/Lg0rhrxy1G/GrtZmWDhFa/132909
-#EXTM3U
+http://ender8903.gigabit.dns001.cf:8080/Lg0rhrxy1G/GrtZmWDhFa/132909#EXTM3U
 #EXTINF:-1,PT-FHD: Hollywood
 http://ruzgariptv.us:8000/testing/testing/86775
 #EXTINF:-1,PT-FHD: Tvcine Edition
@@ -1183,8 +1176,7 @@ http://ruzgariptv.us:8000/testing/testing/86945
 #EXTINF:-1,PT-FHD: RTP 1
 http://ruzgariptv.us:8000/testing/testing/86946
 #EXTINF:-1,PT-FHD: Fight Network
-http://ruzgariptv.us:8000/testing/testing/86951
-#EXTM3U
+http://ruzgariptv.us:8000/testing/testing/86951#EXTM3U
 #EXTINF:-1,RTP 1 HD
 http://main.pompaliyoruzke.net:8080/Ds9LxfMpkq/TbNUd1fsCt/4414
 #EXTINF:-1,RTP 2 HD
@@ -2240,4 +2232,4 @@ http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/374546
 #EXTINF:-1,PT: TLC
 http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/136681
 #EXTINF:-1,PT: DOG TV HD
-http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/132909
+http://ip.sltv-c.be:8080/aqsF6Eqo5h/AA4X5gLVnM/132909
