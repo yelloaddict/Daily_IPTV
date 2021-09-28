@@ -22,3 +22,5 @@ rm IPTV_List/pt*
 git add --all;
 git commit -m "$(date)";
 git push;
+
+
