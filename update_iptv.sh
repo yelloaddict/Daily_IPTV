@@ -20,8 +20,7 @@ cat IPTV_List/* > /temp/Daily_IPTV/IPTV_List/IPTV_ALL.m3u ;
 
 rm /temp/Daily_IPTV/IPTV_List/pt* 
 
+
 git add --all;
 git commit -m "$(date)";
 git push;
-
-
