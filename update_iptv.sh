@@ -19,5 +19,6 @@ cat IPTV_List/* > IPTV_List/IPTV_ALL.m3u ;
 
 rm IPTV_List/pt* 
 
-
-
+git add --all;
+git commit -m "$(date)";
+git push;
