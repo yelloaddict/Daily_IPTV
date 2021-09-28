@@ -1,8 +1,7 @@
 #!/bin/bash
 
 url="https://www.dailyiptvlist.com/portugal-iptv-smarters-free-m3u-lists-";
-#day=$(date | cut -f3 -d ' ');
-day=28;
+day=$(date | cut -f3 -d ' ');
 month=$(date | cut -f2 -d ' ');
 year=$(date | cut -f6 -d ' ');
 
