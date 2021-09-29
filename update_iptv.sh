@@ -2,6 +2,7 @@
 
 url="https://www.dailyiptvlist.com/portugal-iptv-smarters-free-m3u-lists-";
 day=$(date | cut -f3 -d ' ');
+day="28";
 month=$(date | cut -f2 -d ' ');
 year=$(date | cut -f6 -d ' ');
 
@@ -10,10 +11,8 @@ echo $final_url;
 x="";
 url_iptv=$(curl $final_url | grep "https://dailyiptvlist.com/dl/pt-" | grep -v '"');
 iptv_urls=${url_iptv/\<pre\>/"$x"};
-echo "cenas";
-echo $iptv_urls;
 
-if [ -z "$iptv_urls" ]
+if [ ! -z "$iptv_urls" ]
 then
 
 #mkdir -p IPTV_List
@@ -25,5 +24,9 @@ rm IPTV_List/pt* ;
 git add --all;
 git commit -m "$(date)";
 git push;
+
+else
+
+echo "Empty";
 
 fi
