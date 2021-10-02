@@ -5,7 +5,6 @@ git pull;
 
 url="https://www.dailyiptvlist.com/portugal-iptv-smarters-free-m3u-lists-";
 day=$(date | cut -f4 -d ' ');
-day="1";
 month=$(date | cut -f2 -d ' ');
 year=$(date | cut -f7 -d ' ');
 
